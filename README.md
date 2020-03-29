@@ -1,6 +1,6 @@
 # :artificial_satellite: Critical Communications :satellite:
 
-**Term** :Spring 2018,  NYU ITP
+**Term**: Spring 2020,  NYU ITP
 
 **Meetings**: Monday, 6:30 - 9:00pm
 
