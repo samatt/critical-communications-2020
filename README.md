@@ -53,3 +53,31 @@ For the purpose of this assignment a communications protocol will be defined as 
 
 Submit your blog posts [here](https://forms.gle/WJwU5EwnH1ZCDm6q8)
 
+
+
+### Week 2
+
+#### Discussion
+
+- Characteristics of a wave :wavy_dash:
+- Introduction to the Electromagnetic Spectrum
+- Using Modulation to encode information
+  - FM
+  - AM
+- Introduction to Software Defined Radios
+- Digital Modulation
+  - FSK
+  - ASK
+  - PSK
+
+#### Assignment
+
+- Read the following EFF blog posts on Cell-Site simulators:
+  - [Cell-Site Simulators/IMSI Catchers](https://www.eff.org/pages/cell-site-simulatorsimsi-catchers)
+  - [Standing Rock](https://www.eff.org/deeplinks/2016/12/investigating-law-enforcements-use-technology-surveil-and-disrupt-nodapl-water)
+
+- Use the [Radio Reference](https://www.radioreference.com/apps/db/) database to look up the frequencies in a geographic location you are interested in. Write up your findings in a blog post. At the very least you should be able to describe three different frequency licenses and how they are being used.
+
+ 
+
+- Submit your blog posts [here](https://forms.gle/Qi81Xe2sCpBMn5Zq8)
