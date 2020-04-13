@@ -81,3 +81,28 @@ Submit your blog posts [here](https://forms.gle/WJwU5EwnH1ZCDm6q8)
  
 
 - Submit your blog posts [here](https://forms.gle/Qi81Xe2sCpBMn5Zq8)
+
+
+
+### Week 3
+
+#### Discussion
+
+- Standards & Regulations
+- Discuss some of the biggest standards bodies in the information and telecommunications sector  
+  - ITU
+  - 3GPP
+  - IEE
+  - IETF
+  - W3C
+- Regulatory Bodies
+  - In-depth look at the FCC
+- Demo listening to signals that transmit data instead of voice 
+
+#### Assignment
+
+- Read the following EFF blog posts on Cell-Site simulators:
+  - [ITU and 3GPP](https://itp.nyu.edu/networks/explanations/itu-and-3gpp/) by Ming pu Shao 
+  - [Netowrked Dream Worlds](https://reallifemag.com/networked-dream-worlds/) by Shannon Mattern
+- Get together with your group and come up with a pitch for you group projects
+
