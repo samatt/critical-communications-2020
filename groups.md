@@ -8,7 +8,6 @@
  - Arnab
  - Adrian
  - Cezar
- - Yeseul
   
 ### Group 3
  - KJ
