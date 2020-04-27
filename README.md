@@ -106,3 +106,19 @@ Submit your blog posts [here](https://forms.gle/WJwU5EwnH1ZCDm6q8)
   - [Netowrked Dream Worlds](https://reallifemag.com/networked-dream-worlds/) by Shannon Mattern
 - Get together with your group and come up with a pitch for you group projects
 
+
+### Week 4
+
+#### Discussion
+ - Group projects
+ - Guest Lecture - Marc Dacosta
+
+- 
+
+### Week 5
+
+#### Discussion
+
+- Group projects check-in 
+- Lecture
+
